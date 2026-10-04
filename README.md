@@ -4,14 +4,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Systems Engineer** focused on **Front-End & Web Development**, passionate about building functional, intuitive and well-structured digital experiences.
+I'm a **Systems Engineer** focused on **Front-End & Web Development**, interested in building functional, intuitive and well-structured digital solutions.
 
-- 💻 Focused on **Web Development & Front-End**
-- ⚛️ Building with **React, JavaScript, HTML & CSS**
-- 🐍 Working with **Python & FastAPI**
-- 🗄️ Experience with **SQL & databases**
-- 🌱 Currently strengthening my skills through courses and personal projects
-- 🚀 Interested in combining **technology, design and problem-solving**
+💻 I enjoy working across the web stack, from creating interfaces with **React & JavaScript** to building APIs with **Python & FastAPI**.
+
+🧠 My background also includes **software development, databases, programming and problem-solving**, giving me a broader engineering perspective beyond Front-End.
+
+🚀 I'm currently strengthening my skills through continuous learning and building projects for my professional portfolio.
 <br>
 
 ## 🛠️ Tech Stack
