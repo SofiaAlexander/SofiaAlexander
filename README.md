@@ -37,17 +37,21 @@ I'm a **Systems Engineer** focused on **Front-End & Web Development**, intereste
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛡️ Anti-Fraud Management System
-Web-based system developed to support supervision, anti-fraud control and commercial performance evaluation.
+### 🛡️ Anti-Fraud Management System — `In Progress`
+Web-based system focused on supervision, anti-fraud control and commercial performance evaluation.
 
 **Tech:** React · JavaScript · Tailwind CSS · Python · FastAPI · SQLite
 
-### 🌐 Personal Portfolio
-My professional portfolio focused on showcasing my projects, technical skills and growth as a Systems Engineer.
+> 🔧 Currently being improved and prepared for portfolio presentation.
+
+### 🌐 Personal Portfolio — `In Progress`
+Professional portfolio designed to showcase my development projects, technical skills and growth as a Systems Engineer.
 
 **Tech:** JavaScript · HTML · CSS
+
+> 🚧 Currently under development.
 <br>
 
 ## 📚 Currently Learning
