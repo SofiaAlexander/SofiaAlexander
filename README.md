@@ -25,15 +25,16 @@ I'm a **Systems Engineer** focused on **Front-End & Web Development**, intereste
   <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" />
 </p>
 
-### Programming Languages
+### Other Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,cpp" />
 </p>
 
-### Tools
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 <br>
 
 ## 🚀 Featured Projects
