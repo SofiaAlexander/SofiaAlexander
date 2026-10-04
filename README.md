@@ -56,10 +56,11 @@ Professional portfolio designed to showcase my development projects, technical s
 
 ## 📚 Currently Learning
 
-- 🌐 Advanced Web Development — HTML5, CSS3, JavaScript, AJAX, PHP & MySQL
-- 📊 Data Analysis — From fundamentals to advanced concepts
-- 🛠️ Technical Support — Corporate computer environments
-- 🚀 Building new projects to strengthen my development portfolio
+- 🌐 Deepening my knowledge of **modern web development and JavaScript**
+- ⚛️ Improving my skills with **React and Front-End development**
+- 🐍 Strengthening **Python and Back-End fundamentals**
+- 📊 Expanding my knowledge of **data analysis and SQL**
+- 🛠️ Building and improving projects through hands-on practice
 <br>
 
 ## 🤝 Let's Connect
