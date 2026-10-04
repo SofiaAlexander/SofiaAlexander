@@ -2,18 +2,6 @@
   <img src="./github-banner-animated.gif" width="100%" alt="Ana Sofía Soto - Systems Engineer">
 </p>
 
-<br>
-<h1 align="center">Hi 👋, I'm Ana Sofía</h1>
-
-<h3 align="center">
-  Systems Engineer · Front-End & Web Development
-</h3>
-
-<p align="center">
-  Building modern web experiences with React, JavaScript & Python.
-</p>
-<br>
-
 ## 👩‍💻 About Me
 
 I'm a **Systems Engineer** focused on **Front-End & Web Development**, passionate about building functional, intuitive and well-structured digital experiences.
