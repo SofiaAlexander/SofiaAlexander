@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Ana%20Sofía%20Soto_%20Ingeniería%20y%20Código.png" width="100%" alt="Ana Sofía Soto - Systems Engineer">
+  <img src="./github-banner-animated.gif" width="100%" alt="Ana Sofía Soto - Systems Engineer">
 </p>
 
 <br>
