@@ -65,10 +65,10 @@ Professional portfolio designed to showcase my development projects, technical s
 
 ## 🤝 Let's Connect
 
+I'm open to connecting, collaborating on projects and exploring opportunities in **Front-End, Web Development and Software Engineering**.
+
 <p>
   <a href="https://www.linkedin.com/in/ana-sofia-soto">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
 </p>
-
-I'm open to connecting with developers, collaborating on projects and exploring opportunities in **Front-End & Web Development**.
