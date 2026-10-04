@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Ana%20Sofía%20Soto_%20Ingeniería%20y%20Código.png" width="100%" alt="Ana Sofía Soto - Systems Engineer">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Ana Sofía</h1>
 
 <h3 align="center">
